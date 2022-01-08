@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning indefinitely.
 - 👯 I’m looking to collaborate with others on complex Fullstack Projects to build our skills
 - 🥅 2022 Goals: Build more Developer Relationships Grow My Network, Aid budding new devs
-- ⚡ Fun fact: I love to Rock climb / Adventure / Create Games.
+- ⚡ Fun fact- Hobbies I love include: Rock climbing / Backpacking / Game Design / Photography & Videography
+
 
 ## Languages and Tools:
 
