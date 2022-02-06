@@ -31,6 +31,4 @@
 
 <br />
 
-
-[website]: https://github.com/TaylorFlynn
 [linkedin]: https://www.linkedin.com/in/taylor-flynn-64818222a/
